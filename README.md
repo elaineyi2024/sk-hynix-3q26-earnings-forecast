@@ -1,3 +1,24 @@
+
+## Post-Earnings Review | Outperformed Market Consensus
+
+My independent SK hynix 3Q26 earnings forecast, finalized on **September 26, 2026**, was more accurate than both the market consensus published at the time of my forecast and the consensus reported just two days before the earnings announcement.
+
+### Forecast Accuracy: Independent Model vs. Market Consensus
+
+| Forecast                  | Revenue Error | Operating Profit Error |
+| ------------------------- | ------------: | ---------------------: |
+| Market Consensus (Sep 25) |        10.05% |                 11.05% |
+| **My Forecast (Sep 26)**  |     **4.41%** |              **4.96%** |
+| Market Consensus (Oct 26) |         6.10% |                  7.65% |
+
+**Key Achievement:** My forecast achieved the lowest error in both revenue and operating profit, outperforming the published market consensus figures even though it was finalized **32 days before the actual earnings release**.
+
+The original September 26 forecast remains unchanged to preserve the integrity of the research.
+
+[**Read the Full Post-Earnings Review**](reports/SK_hynix_3Q26_Post_Earnings_Review.pdf)
+
+
+
 # SK hynix 3Q26 Earnings Forecast
 
 **Pre-Earnings Report v1.0**  
